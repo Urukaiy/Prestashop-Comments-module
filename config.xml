@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>commentproduct</name>
+    <displayName><![CDATA[Product comment]]></displayName>
+    <version><![CDATA[1.0]]></version>
+    <description><![CDATA[Permite clientilor sa lase un comentariu despre produs]]></description>
+    <author><![CDATA[Catalin Gobej Danut]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
